@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Lucky Spin Wheel",
+  "description": "A vibrant, interactive mock lucky spin wheel game featuring custom rewards, active spin animations, and high-end visual enhancements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
